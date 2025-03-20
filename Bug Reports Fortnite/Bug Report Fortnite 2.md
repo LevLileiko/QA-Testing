@@ -25,8 +25,10 @@ Expected Result: All players should be properly displayed in the waiting area.
 
 Actual Result: Only pickaxes of other players are rendered, but their characters are missing.
 
-Reproduction Rate: 1/5
+Reproduction Rate:
+1/5 (Occurs once in five attempts).
 
-Severity: Minor (2)
+Severity:
+Minor (2) – Causes visual confusion but does not break gameplay.
 
 Attachments: ![Bug Screenshot](BugReportFortnite2.png)
