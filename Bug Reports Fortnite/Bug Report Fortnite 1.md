@@ -1,7 +1,11 @@
 Bug Report
+
 Game: Fortnite
+
 Platform: PC
+
 Version: 34.10
+
 Type: Audio
 
 Description:
