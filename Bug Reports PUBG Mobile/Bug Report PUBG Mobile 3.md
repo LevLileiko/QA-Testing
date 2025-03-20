@@ -37,8 +37,7 @@ Reproduction Rate:
 Severity:
 2 (Minor)
 
-Attachments:
-📹 Video: BugReportPUBG_Mobile2.mp4
+Attachments: Video: [Watch here](https://youtu.be/uvTftB9htBs)
 
 
 
