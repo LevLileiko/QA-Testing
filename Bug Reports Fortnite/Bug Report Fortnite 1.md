@@ -29,4 +29,4 @@ Reproduction Rate: 1/5
 
 Severity: Minor (2)
 
-Attachments: Video. ![Bug Video](BugReportFortnite1.mp4)
+Attachments: Video: [Watch here](https://youtu.be/7cyj9HNIOCM)
