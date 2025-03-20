@@ -1,8 +1,11 @@
 Bug Report Fortnite 3
 
 Game: Fortnite
+
 Platform: PC
+
 Version: 34.10
+
 Type: Graphics
 
 Description:
