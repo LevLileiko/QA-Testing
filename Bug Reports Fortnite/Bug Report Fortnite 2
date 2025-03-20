@@ -7,10 +7,14 @@ Description:
 In Zero Build mode, when spawning in the waiting area, other players are not visible, only their pickaxes are rendered.
 
 Steps to Reproduce:
-Launch Fortnite.
-Select Zero Build mode.
-Click Play.
-Spawn in the waiting area before the match starts.
+1.Launch Fortnite.
+
+2.Select Zero Build mode.
+
+3.Click Play.
+
+4.Spawn in the waiting area before the match starts.
+
 Expected Result:
 All players should be properly displayed in the waiting area.
 
