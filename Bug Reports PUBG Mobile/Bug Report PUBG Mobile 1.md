@@ -37,4 +37,4 @@ Reproduction Rate:
 Severity:
 2 (Minor)
 
-Attachments: Screenshots. ![Bug Screenshot](1.bug-report.pubgm.png)
+Attachments: Screenshots. ![Bug Screenshot](1.bug-report.pubgm.jpg)
