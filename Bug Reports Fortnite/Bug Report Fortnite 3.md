@@ -32,4 +32,4 @@ Reproduction Rate:
 Severity:
 Minor (2) – Causes visual confusion but does not break gameplay.
 
-Attachments:Screenshot: BugReportFortnite3
+Attachments:Screenshot: ![Bug Screenshot](BugReportFortnite3.png)
