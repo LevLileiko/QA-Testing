@@ -1,8 +1,11 @@
-Bug Report Fortnite 1
+Bug Report Fortnite 2
 
 Game: Fortnite
+
 Platform: PC
+
 Version: 34.10
+
 Type: Graphics
 
 Description:
@@ -23,5 +26,7 @@ Expected Result: All players should be properly displayed in the waiting area.
 Actual Result: Only pickaxes of other players are rendered, but their characters are missing.
 
 Reproduction Rate: 1/5
+
 Severity: Minor (2)
+
 Attachments: ![Bug Screenshot](BugReportFortnite2.png)
