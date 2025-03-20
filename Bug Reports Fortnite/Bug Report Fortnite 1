@@ -1,0 +1,32 @@
+# 🛠 Bug Report  
+
+## 🎮 Game Information  
+- **Game:** Fortnite 
+- **Platform:** PC   
+- **Version:** 34.10 
+- **Type:** Audio 
+
+## 📝 Description  
+[Briefly describe the bug, what is happening, and where it occurs.]  
+
+## 🔄 Steps to Reproduce  
+1. [Step 1]  
+2. [Step 2]  
+3. [Step 3]  
+4. [etc.]  
+
+## ✅ Expected Result  
+[Describe what should happen if the game worked correctly.]  
+
+## ❌ Actual Result  
+[Describe what actually happens in the game.]  
+
+## 📊 Reproducibility  
+- **[X/5]** (How many times out of 5 does the bug occur?)  
+
+## ⚠ Severity  
+- **[Trivial / Minor / Major / Critical / Blocker]**  
+
+## 📎 Attachments  
+![Bug Screenshot](bug_screenshot png)  
+[Optional: Link to video if needed]  
