@@ -1,32 +1,31 @@
-# 🛠 Bug Report  
+Bug Report
+Game: Fortnite
+Platform: PC
+Version: 34.10
+Type: Audio
 
-## 🎮 Game Information  
-- **Game:** Fortnite 
-- **Platform:** PC   
-- **Version:** 34.10 
-- **Type:** Audio 
+Description:
+In Zero Build mode, when entering a black jeep, the vehicle does not emit engine sounds.
 
-## 📝 Description  
-[Briefly describe the bug, what is happening, and where it occurs.]  
+Steps to Reproduce:
 
-## 🔄 Steps to Reproduce  
-1. [Step 1]  
-2. [Step 2]  
-3. [Step 3]  
-4. [etc.]  
+1.Launch Fortnite.
 
-## ✅ Expected Result  
-[Describe what should happen if the game worked correctly.]  
+2.Select Zero Build mode.
 
-## ❌ Actual Result  
-[Describe what actually happens in the game.]  
+3.Click Play and wait for the drop.
 
-## 📊 Reproducibility  
-- **[X/5]** (How many times out of 5 does the bug occur?)  
+4.Approach a black jeep.
 
-## ⚠ Severity  
-- **[Trivial / Minor / Major / Critical / Blocker]**  
+5.Press the button to enter the vehicle.
 
-## 📎 Attachments  
-![Bug Video](BugReportFortnite1.mp4)  
+Expected Result:
+The vehicle should emit engine sounds upon entry.
 
+Actual Result:
+No engine sound is played.
+
+Reproduction Rate: 1/5
+Severity: Minor (2)
+Attachments:
+🎥 BugReportFortnite1.mp4
